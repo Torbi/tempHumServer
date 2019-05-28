@@ -1,0 +1,24 @@
+body {
+    padding-top: 5rem;
+    background-color: #bebcc4;
+}
+main{
+
+
+}
+.starter-template {
+    text-align: center;
+}
+.mainWrapper{
+  /*border: solid;*/
+  border-radius: 25px;
+  background-color: #bebcc4;
+}
+.chartContainer{
+  padding-right: 20px;
+/*  border-radius: 25px;*/
+}
+.formWrapper{
+  position: flex;
+  flex-direction: row;
+}
